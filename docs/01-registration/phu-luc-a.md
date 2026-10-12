@@ -23,9 +23,9 @@
 
 | STT | MSSV | Họ và tên | GitHub account | Vai trò trong nhóm | Xác nhận |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2454052030 | Lê Thị Cẩm Lệ | Cale | Trưởng nhóm | Đồng ý |
-| 2 | 2454052022 | Nguyễn Thị Kiều Hương | Kiều Hương | Thành viên | Đồng ý |
-| 3 | 2454052033 | Nguyễn Thị Mỹ Linh | Mỹ Linh | Thành viên | |
+| 1 | 2454052030 | Lê Thị Cẩm Lệ | lemun2670-rgb | Trưởng nhóm | Đồng ý |
+| 2 | 2454052022 | Nguyễn Thị Kiều Hương | xamxi53 | Thành viên | Đồng ý |
+| 3 | 2454052033 | Nguyễn Thị Mỹ Linh | nguyennlinhh832-debug | Thành viên | |
 | 4 | 2454052023 | Phạm Lan Hương | lan-huong1406 | Thành viên | |
 | 5 | 2454052035 | Nguyễn Thị Hồng Minh | hminhh79-source | Thành viên | |
 
